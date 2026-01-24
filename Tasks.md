@@ -6,4 +6,4 @@
 |   Rasa           | Background        | Completed     |
 |   Xenia          | Product Vision    | Not Started   |
 |   Preeya         | Market Research   | Not Started   |
-|   Hiru           | Market Research   | Not Started   |
+|   Hiru           | Market Research   | Completed     |
