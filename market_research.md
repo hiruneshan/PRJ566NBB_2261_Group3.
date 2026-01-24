@@ -5,7 +5,7 @@ Research shows that newcomers to Canada face significant challenges in finding c
 
 ## Sources Supporting These Challenges
 
-- Settlement.org — Newcomer Information Portal  
+- Settlement.org - Newcomer Information Portal  
   https://settlement.org  
 
 - YMCA Newcomer Services  
@@ -21,7 +21,7 @@ Research shows that newcomers to Canada face significant challenges in finding c
 
 ## Examples of Current Settlement Information Sources
 
-Government of Canada — Newcomer Services (IRCC / Canada.ca):
+Government of Canada - Newcomer Services (IRCC / Canada.ca):
 https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/newcomers.html
 
 
