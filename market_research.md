@@ -31,12 +31,8 @@ http://www.newcomerconnections.org/
 - Newcomer Support Canada
 https://newcomersupport.ca  
 
----
-
 - Settlement.org
 https://settlement.org  
-
----
 
 - CICS Newcomer Resource Guide
 https://www.cicscanada.com/en/articles/277/Newcomer_Resource_Guide  
