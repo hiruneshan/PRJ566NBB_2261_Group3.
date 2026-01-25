@@ -89,18 +89,17 @@ User Group and  Why They Matter?
 - The first 90 days after arrival represent the highest risk period.
 
 
-### 4. Task Pre-Arrival User 
-- What exists
+### 4.  Pre-Arrival 
+#### What exists
 
   
-- What is missing
+#### What is missing
 
-### 5. Post-Arrival User 
-- What exists
+### 5. Post-Arrival 
+#### What exists
 
   
-- What is missing
-  
+#### What is missing
 
 ### 6. Existing Solutions and Market Gaps
 #### What exists
@@ -114,8 +113,7 @@ Service Canada: https://www.canada.ca/en/employment-social-development/services/
 - Community Forums & Social Media (e.g., Facebook Groups): Provide peer support but risk spreading outdated or incorrect information. 
 Gap: A trusted, official, and action-oriented platform that holds a newcomer's hand from the moment they receive their approval letter through their first critical years. 
 
-  
-- What is missing
+ #### What is missing
 
 
 
