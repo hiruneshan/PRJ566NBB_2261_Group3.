@@ -103,7 +103,16 @@ User Group and  Why They Matter?
   
 
 ### 6. Existing Solutions and Market Gaps
-- What exists
+#### What exists
+- Government Websites (IRCC, Service Canada): Authoritative but siloed, text-heavy, and not user-centric. They provide information but not personalized, actionable timelines.  
+(IRCC  :https://www.canada.ca/en/immigration-refugees-citizenship.html 
+Service Canada: https://www.canada.ca/en/employment-social-development/services/sin.html) 
+- BorderPass(By Seneca College): Focuses on immigration eligibility and application processes (pre-arrival), not post-arrival settlement.  
+(BorderPass. https://www.borderpass.ai/) 
+- Canoo: Offers perks and discounts but not procedural guidance. 
+(Canoo. https://canoo.ca/) 
+- Community Forums & Social Media (e.g., Facebook Groups): Provide peer support but risk spreading outdated or incorrect information. 
+Gap: A trusted, official, and action-oriented platform that holds a newcomer's hand from the moment they receive their approval letter through their first critical years. 
 
   
 - What is missing
