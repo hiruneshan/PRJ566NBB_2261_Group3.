@@ -34,5 +34,40 @@ https://newcomersupport.ca
 https://settlement.org  
 
 - CICS Newcomer Resource Guide
-https://www.cicscanada.com/en/articles/277/Newcomer_Resource_Guide  
+
+---
+### Overview of Newcomer Settlement Challenges
+The main key :
+- fragmented settlement services Canada
+- multiple agencies newcomer services Canada
+- information overload immigrants Canada
+
+## Market & User Research aspect focusing 
+### 3.1 Target Users: Market Size (High-Level)
+
+- International students
+- Temporary foreign workers
+- Permanent residents
+- Newcomer families
+*https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html
+* https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html
+* https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada.html
+
+### 3.2 Pre-Arrival Challenges
+
+- Lack of clear preparation guidance
+- Fragmented information
+- Uncertainty about next steps
+
+### 3.3 Post-Arrival Challenges
+
+- Overwhelming number of tasks
+- Complex government systems
+- Language and digital barriers
+
+### 3.4 Existing Solutions & Gaps
+- Government portals
+- Settlement agencies
+- What they do not solve
+
 
