@@ -43,31 +43,79 @@ The main key :
 - information overload immigrants Canada
 
 ## Market & User Research aspect focusing 
-### 3.1 Target Users: Market Size (High-Level)
-
-- International students
-- Temporary foreign workers
-- Permanent residents
-- Newcomer families
+### 1. Target Users: Market Overview Size (High-Level)
+User Group and  Why They Matter?
+- International Students	  >>>>>Large, recurring group
+- Temporary Foreign Workers >>>>>Employer-driven deadlines
+- Permanent Residents	      >>>>>Family + long-term needs
+- Pre-arrival newcomers     >>>>>Planning stage
+- Post-arrival newcomers    >>>>>Execution stag
+- 
+(Source)
 *https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html
 * https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html
 * https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada.html
 
-### 3.2 Pre-Arrival Challenges
-
+### 2.  Market Pain Points: 
+#### Pre-Arrival Challenges
 - Lack of clear preparation guidance
 - Fragmented information
 - Uncertainty about next steps
-
-### 3.3 Post-Arrival Challenges
-
+#### Post-Arrival Challenges
 - Overwhelming number of tasks
 - Complex government systems
 - Language and digital barriers
-
-### 3.4 Existing Solutions & Gaps
+- Deadline pressure
+#### Existing Solutions & Gaps
 - Government portals
 - Settlement agencies
 - What they do not solve
+
+#### User Research supporting and Existing Solutions : Repeated problems
+- Testimonials on settlement sites : https://settlement.org/outreach/testimonials/
+- FAQs (what people keep asking) : https://www.cicnews.com/2024/04/10-frequently-asked-questions-by-visitors-to-canada-0443451.html
+- Reddit / forums (e.g., r/ImmigrationCanada) :
+      -  https://www.reddit.com/r/ImmigrationCanada/
+      - https://www.reddit.com/r/canadaexpressentry/
+      - https://www.canadavisa.com/canada-immigration-discussion-board/
+- International student Facebook groups: https://www.facebook.com/groups/583511328329085/
+- Meetup : https://www.meetup.com/topics/exchangestud/ca/
+
+  
+### 3. Key Challenges Identified
+#### Insight Statements : 
+- "Newcomers do not lack information, but lack structured guidance" 
+- “Settlement services exist, but are fragmented and difficult to navigate.”
+- “The first 90 days after arrival represent the highest risk period.”
+
+- Information fragmentation
+- Lack of personalization
+- Time-sensitive requirements
+
+### 4. Task Pre-Arrival User Challenges
+- Preparation confusion
+
+  
+- Document uncertainty
+
+  
+
+### 5. Post-Arrival User Challenges
+- Task overload
+
+  
+- Deadline pressure
+  
+
+### 6. Existing Solutions and Market Gaps
+- What exists
+
+  
+- What is missing
+
+
+### 7. Key User Insights
+- Summary of patterns and needs
+  
 
 
