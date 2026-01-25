@@ -5,5 +5,5 @@
 |   Vivian         | Problem Statement | Not Started   |
 |   Rasa           | Background        | Completed     |
 |   Xenia          | Product Vision    | Not Started   |
-|   Preeya         | Market Research   | Completed  |
-|   Hiru           | Market Research   | Completed     |
+|   Preeya         | Market Research   | Process  |
+|   Hiru           | Market Research   | Process     |
