@@ -103,11 +103,19 @@ Service Canada: https://www.canada.ca/en/employment-social-development/services/
 - Community Forums & Social Media (e.g., Facebook Groups): Provide peer support but risk spreading outdated or incorrect information. 
 Gap: A trusted, official, and action-oriented platform that holds a newcomer's hand from the moment they receive their approval letter through their first critical years. 
 
- #### What is missing
+ 
 ---
 ## User Group Requirements
+These apply to almost all groups:
+***Needing to check the country ***
+1. Social Insurance Number (SIN)
+2. Healthcare access
+3. Banking
+4. Government-issued ID
+5. Address updates
+6. Permit / status tracking
 ---- 
-#### 1. International Students : (Large, recurring group)
+### 1. International Students : (Large, recurring group)
 #### Pre-Arrival Requirements
 - Accept study permit & understand permit conditions
 - Prepare documents (LOA, passport, study permit approval)
@@ -124,7 +132,46 @@ Gap: A trusted, official, and action-oriented platform that holds a newcomer's h
 - Maintain study permit status
 - Track study permit expiry & renewal
 ---- 
+### 2. Temporary Foreign Workers (TFWs): (Employer-driven deadlines)
+#### Pre-Arrival Requirements
+- Confirm job offer & LMIA (if required)
+- Understand work permit conditions (employer-specific vs open)
+- Prepare required documents for entry
+- Arrange housing near workplace
+- Understand employment rights in Canada
 
+#### Post-Arrival Requirements
+- Apply for SIN
+- Open a bank account (for payroll)
+- Register for healthcare (provincial or private)
+- Obtain photo ID
+- Comply with employer reporting requirements
+- Track work permit expiry & renewal deadlines
+----
+### 3.Permanent Residents (PRs): (Family + long-term needs)
+
+#### Pre-Arrival Requirements
+- Understand PR status rights & obligations
+- Prepare landing documents
+- Plan family settlement (schools, childcare)
+- Understand residency obligations
+
+#### Post-Arrival Requirements
+- Apply for PR Card (if not received)
+- Apply for SIN
+- Register for provincial healthcare
+- Open bank accounts
+- Obtain photo ID
+- Enroll children in school
+- Access settlement & employment services
   
+### 4. Pre-Arrival Newcomers: (Planning stage)
+Core need: Clarity and preparation
 
+### 5.  Post-Arrival Newcomers: (Execution stage)
+
+
+Understand eligibility based on status
+
+📌 Core need: Guided execution and reminders
 
