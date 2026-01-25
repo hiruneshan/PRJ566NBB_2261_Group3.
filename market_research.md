@@ -89,19 +89,9 @@ User Group and  Why They Matter?
 - The first 90 days after arrival represent the highest risk period.
 
 --- 
-### 4.  Pre-Arrival 
-#### What exists
+## Method Solution 
 
-  
-#### What is missing
---- 
-### 5. Post-Arrival 
-#### What exists
-
-  
-#### What is missing
---- 
-### 6. Existing Solutions and Market Gaps
+### 4. Existing Solutions and Market Gaps from the other 
 #### What exists
 - Government Websites (IRCC, Service Canada): Authoritative but siloed, text-heavy, and not user-centric. They provide information but not personalized, actionable timelines.  
 (IRCC  :https://www.canada.ca/en/immigration-refugees-citizenship.html 
@@ -114,8 +104,26 @@ Service Canada: https://www.canada.ca/en/employment-social-development/services/
 Gap: A trusted, official, and action-oriented platform that holds a newcomer's hand from the moment they receive their approval letter through their first critical years. 
 
  #### What is missing
-
-
+---
+## User Group Requirements
+---- 
+#### 1. International Students : (Large, recurring group)
+#### Pre-Arrival Requirements
+- Accept study permit & understand permit conditions
+- Prepare documents (LOA, passport, study permit approval)
+- Understand work limitations (on/off campus hours)
+- Learn about health insurance coverage (UHIP / provincial)
+- Arrange housing (temporary or long-term)
+- Understand entry requirements at the border
+#### Post-Arrival Requirements
+- Apply for SIN
+- Activate health insurance
+- Open a bank account
+- Obtain photo ID
+- Register with school support services
+- Maintain study permit status
+- Track study permit expiry & renewal
+---- 
 
   
 
