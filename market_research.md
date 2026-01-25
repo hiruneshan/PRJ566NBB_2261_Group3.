@@ -41,7 +41,7 @@ The main key :
 - fragmented settlement services Canada
 - multiple agencies newcomer services Canada
 - information overload immigrants Canada
-
+---
 ## Market & User Research aspect focusing 
 ### 1. Target Users: Market Overview Size (High-Level)
 User Group and  Why They Matter?
@@ -55,7 +55,7 @@ User Group and  Why They Matter?
 *https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html
 * https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html
 * https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada.html
-
+---
 ### 2.  Market Pain Points: 
 #### Pre-Arrival Challenges
 - Lack of clear preparation guidance
@@ -70,7 +70,7 @@ User Group and  Why They Matter?
 - Government portals
 - Settlement agencies
 - What they do not solve
-
+---
 #### User Research supporting and Existing Solutions : Repeated problems
 - Testimonials on settlement sites : https://settlement.org/outreach/testimonials/
 - FAQs (what people keep asking) : https://www.cicnews.com/2024/04/10-frequently-asked-questions-by-visitors-to-canada-0443451.html
@@ -81,30 +81,25 @@ User Group and  Why They Matter?
 - International student Facebook groups: https://www.facebook.com/groups/583511328329085/
 - Meetup : https://www.meetup.com/topics/exchangestud/ca/
 
-  
+---  
 ### 3. Key Challenges Identified
 #### Insight Statements : 
-- "Newcomers do not lack information, but lack structured guidance" 
-- “Settlement services exist, but are fragmented and difficult to navigate.”
-- “The first 90 days after arrival represent the highest risk period.”
+- Newcomers do not lack information, but lack structured guidance
+- Settlement services exist, but are fragmented and difficult to navigate.
+- The first 90 days after arrival represent the highest risk period.
 
-- Information fragmentation
-- Lack of personalization
-- Time-sensitive requirements
 
-### 4. Task Pre-Arrival User Challenges
-- Preparation confusion
+### 4. Task Pre-Arrival User 
+- What exists
 
   
-- Document uncertainty
+- What is missing
+
+### 5. Post-Arrival User 
+- What exists
 
   
-
-### 5. Post-Arrival User Challenges
-- Task overload
-
-  
-- Deadline pressure
+- What is missing
   
 
 ### 6. Existing Solutions and Market Gaps
@@ -114,8 +109,7 @@ User Group and  Why They Matter?
 - What is missing
 
 
-### 7. Key User Insights
-- Summary of patterns and needs
+
   
 
 
