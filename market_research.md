@@ -88,19 +88,19 @@ User Group and  Why They Matter?
 - Settlement services exist, but are fragmented and difficult to navigate.
 - The first 90 days after arrival represent the highest risk period.
 
-
+--- 
 ### 4.  Pre-Arrival 
 #### What exists
 
   
 #### What is missing
-
+--- 
 ### 5. Post-Arrival 
 #### What exists
 
   
 #### What is missing
-
+--- 
 ### 6. Existing Solutions and Market Gaps
 #### What exists
 - Government Websites (IRCC, Service Canada): Authoritative but siloed, text-heavy, and not user-centric. They provide information but not personalized, actionable timelines.  
